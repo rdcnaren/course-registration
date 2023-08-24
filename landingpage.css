@@ -1,0 +1,22 @@
+.bgimage{
+    background-image: url(images/landingbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    position: sticky;
+    top: 40%;
+    
+   
+}
+
+#head{
+    margin-top: 280px;
+    color: white;
+    font-size:45px;
+    
+}
+
+.link{
+    color: white;
+}
